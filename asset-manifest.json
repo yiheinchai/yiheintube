@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yiheintube/static/css/main.76d9d360.chunk.css",
+    "main.js": "/yiheintube/static/js/main.e68ca708.chunk.js",
+    "main.js.map": "/yiheintube/static/js/main.e68ca708.chunk.js.map",
+    "runtime-main.js": "/yiheintube/static/js/runtime-main.0eaeb618.js",
+    "runtime-main.js.map": "/yiheintube/static/js/runtime-main.0eaeb618.js.map",
+    "static/js/2.15982d67.chunk.js": "/yiheintube/static/js/2.15982d67.chunk.js",
+    "static/js/2.15982d67.chunk.js.map": "/yiheintube/static/js/2.15982d67.chunk.js.map",
+    "index.html": "/yiheintube/index.html",
+    "static/css/main.76d9d360.chunk.css.map": "/yiheintube/static/css/main.76d9d360.chunk.css.map",
+    "static/js/2.15982d67.chunk.js.LICENSE.txt": "/yiheintube/static/js/2.15982d67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0eaeb618.js",
+    "static/js/2.15982d67.chunk.js",
+    "static/css/main.76d9d360.chunk.css",
+    "static/js/main.e68ca708.chunk.js"
+  ]
+}
